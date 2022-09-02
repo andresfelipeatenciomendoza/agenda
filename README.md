@@ -1,7 +1,6 @@
 # agenda
 tener todo al dia
-´´´´
-
+´´´
 
 Sub programa()
     aporto = 0
@@ -27,4 +26,4 @@ MsgBox " estudiantes que aportaron " & "(" & abono & ")" & " estudiantes"
 MsgBox "  estudiantes queaporaron mas de 10.000: " & "(" & cantidad_recaudada & ")" & " estudiantes"
 End Sub
 
-´´´´
+´´´
